@@ -18,14 +18,14 @@ class Navbar extends Component {
                 <ul className= "navbar-nav align-items-center">
                     <li className="nav-item ml-5">
                     <Link to ="/" className="nav-link">
-                        Products
+                        Products and Samples
                     </Link>
                     </li>
                 </ul>
                 <ul className= "navbar-nav align-items-center">
                     <li className="nav-item ml-5">
                     <Link to ="/services" className="nav-link">
-                        Services
+                        Services and Solutions
                     </Link>
                     </li>
                 </ul>
